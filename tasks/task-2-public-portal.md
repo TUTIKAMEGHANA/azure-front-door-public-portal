@@ -21,4 +21,9 @@ The public portal is accessible through the hosting service and can be used as t
 - Screenshot 2: Deployed public portal in browser.
 - Screenshot 3: Static files/resources loading.
 
-> Replace the screenshot placeholders in `screenshots/task-2/` with actual screenshots.
+<img width="1916" height="1055" alt="image" src="https://github.com/user-attachments/assets/0f0e87e4-a5f0-42bd-b116-2680eb6cd8ac" />
+<img width="1910" height="1033" alt="image" src="https://github.com/user-attachments/assets/ae08ee3c-eec6-40f4-893d-dfaad97defbb" />
+<img width="1916" height="1072" alt="image" src="https://github.com/user-attachments/assets/3e129a9e-fbb8-4fa1-b409-c7ed60835a68" />
+
+
+
