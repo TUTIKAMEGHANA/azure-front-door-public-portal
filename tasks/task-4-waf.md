@@ -27,6 +27,8 @@ Use only controlled, authorized test requests against your own project environme
 > Replace the screenshot placeholders in `screenshots/task-4/` with actual screenshots.
 > <img width="1892" height="1021" alt="image" src="https://github.com/user-attachments/assets/dda0c8c5-5a3e-4656-82ee-05f880955611" />
 <img width="1857" height="1040" alt="image" src="https://github.com/user-attachments/assets/409442e0-c4f5-428e-ab77-e103d7a8a289" />
+<img width="928" height="637" alt="image" src="https://github.com/user-attachments/assets/b8ab9c6b-9294-4802-bebe-9388c69de4ea" />
+
 
 
 
