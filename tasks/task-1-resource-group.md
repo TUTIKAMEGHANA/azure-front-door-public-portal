@@ -19,6 +19,4 @@ The project Resource Group is created successfully and is ready to contain the p
 ## Screenshot Evidence Required
 - Screenshot 1: Resource group creation/review page.
 - Screenshot 2: Resource group overview after creation.
-
-> Replace the screenshot placeholders in `screenshots/task-1/` with actual Azure Portal screenshots.
-<img width="1882" height="1027" alt="image" src="https://github.com/user-attachments/assets/4aefc30c-56a3-4011-bbce-3c263fbab172" />
+<img width="1907" height="1040" alt="image" src="https://github.com/user-attachments/assets/3eee068b-b109-4ddd-a860-a2816a9292b7" />
