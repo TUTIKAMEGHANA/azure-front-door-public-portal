@@ -17,6 +17,5 @@ Create a dedicated Azure Resource Group to organize the resources required for t
 The project Resource Group is created successfully and is ready to contain the portal, Front Door, WAF, and related resources.
 
 ## Screenshot Evidence Required
-- Screenshot 1: Resource group creation/review page.
-- Screenshot 2: Resource group overview after creation.
+- Screenshot : Resource group overview after creation.
 <img width="1907" height="1040" alt="image" src="https://github.com/user-attachments/assets/3eee068b-b109-4ddd-a860-a2816a9292b7" />
