@@ -27,4 +27,11 @@ The public portal is accessible through the custom HTTPS domain, static content 
 - Screenshot 4: Browser showing custom HTTPS domain.
 - Screenshot 5: Final testing evidence.
 
+<img width="1897" height="1021" alt="image" src="https://github.com/user-attachments/assets/8f47e981-f26d-4314-b236-37517f414373" />
+ambitious-coast-06fe79200.2.azurestaticapps.net → Validated ✅
+“Here we can see that the domain has been successfully validated by Azure.”
+https://ambitious-coast-06fe79200.2.azurestaticapps.net
+
+<img width="1907" height="1025" alt="image" src="https://github.com/user-attachments/assets/f07d38e0-cef9-4946-9208-11e87ecf2034" />
+
 > Replace the screenshot placeholders in `screenshots/task-5/` with actual screenshots.
