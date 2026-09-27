@@ -33,5 +33,9 @@ ambitious-coast-06fe79200.2.azurestaticapps.net → Validated ✅
 https://ambitious-coast-06fe79200.2.azurestaticapps.net
 
 <img width="1907" height="1025" alt="image" src="https://github.com/user-attachments/assets/f07d38e0-cef9-4946-9208-11e87ecf2034" />
+<img width="1912" height="561" alt="image" src="https://github.com/user-attachments/assets/2c060b67-6b59-4fcd-a6c2-0b7f2724e2fc" />
+<img width="1898" height="677" alt="image" src="https://github.com/user-attachments/assets/c1fc534c-d0f5-47bf-a8d5-aca35456adfd" />
+<img width="1907" height="870" alt="image" src="https://github.com/user-attachments/assets/87db239d-69d4-43f4-a9cd-16df3846a831" />
+
 
 > Replace the screenshot placeholders in `screenshots/task-5/` with actual screenshots.
